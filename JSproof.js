@@ -33,9 +33,9 @@ function getTotalSupply() {
 }
 
 // Call your functions below this line
-mintNFT("Cryptape", "A unique ape", "meta1", "2024-04-23");
-mintNFT("Bored", "A bored man in world", "meta2", "2024-06-30");
-mintNFT("Art ", "Generative art", "meta3", "2024-10-27");
+mintNFT("Cryptape", "A unique ape", "meta1", "2022-04-23");
+mintNFT("Bored", "A bored man in world", "meta2", "2023-06-30");
+mintNFT("Art ", "Generative art", "meta3", "2023-10-27");
 
 listNFTs();
 console.log("Total Supply: " + getTotalSupply());
